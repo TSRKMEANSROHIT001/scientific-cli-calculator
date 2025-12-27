@@ -1,0 +1,15 @@
+# Build directories
+cmake-build-*/
+
+# CLion / JetBrains
+.idea/
+
+# Compiled binaries
+CLI_Calculator
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+Testing/
